@@ -1,0 +1,53 @@
+body {
+    background-color: purple;
+    color: yellow;
+}
+
+h1 {
+    color: blue;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    background-color: pink;
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+}
+
+.row {
+    flex-direction: row;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.space {
+    justify-content: space-around;
+}
+
+#intro {
+    color: green;
+}
+
+#intro p{
+    color: grey;
+}
+
+.hidden {
+    display: none;
+}
+
+.style1 {
+    background-color: blue;
+}
+
+.style2 {
+    background-color: red;
+}
+
+.btn-primary {
+    background-color: black;
+    color: white;
+}
